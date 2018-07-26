@@ -53,4 +53,4 @@ themes/your-theme-name/      → Root of your component
 ## Roadmap
 - [x] Initial release
 - [ ] Add hot reloading
-- [ ] Remove any jQuery dependency
+- [ ] Decide on jQuery dependency by default
